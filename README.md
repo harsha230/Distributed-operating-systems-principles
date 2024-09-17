@@ -53,8 +53,4 @@ Here, Ratio (CPU time / Real-time): (0.13+0)/0.02 = 6.5
 
 ![](lukas/image3.png)
 
-## Program Snapshots:
 
-![A screenshot of a computer program Description automatically generated](lukas/image4.png)
-
-![A screenshot of a computer program Description automatically generated](lukas/image5.png)
