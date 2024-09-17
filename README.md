@@ -41,20 +41,20 @@ The size of the work unit that resulted in the best performance for our implemen
 
 ### MAC:
 
-![](image1.png)
+![](lukas/image1.png)
 
 Here, Ratio (CPU time / Real-time): (0.13+0)/0.02 = 6.5
 
 ### WINDOWS:
 
-![A computer screen with numbers and text Description automatically generated](image2.png)
+![A computer screen with numbers and text Description automatically generated](lukas/image2.png)
 
 ## The largest problem we managed to solve( lukas 10000000000 20 ):
 
-![](image3.png)
+![](lukas/image3.png)
 
 ## Program Snapshots:
 
-![A screenshot of a computer program Description automatically generated](image4.png)
+![A screenshot of a computer program Description automatically generated](lukas/image4.png)
 
-![A screenshot of a computer program Description automatically generated](image5.png)
+![A screenshot of a computer program Description automatically generated](lukas/image5.png)
